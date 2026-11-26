@@ -4,8 +4,8 @@ Studi kasus untuk **5C - Java Coding Practice - Thread and Database - 2026**, ma
 
 | Identitas | Isi sebelum dikumpulkan |
 | --- | --- |
-| NIM | **[Isi NIM kamu]** |
-| Nama | **[Isi nama kamu]** |
+| NIM | F1D02410080 |
+| Nama | Muhammad Rifqy Habibi |
 | GitHub Repository | https://github.com/ripkiiuu/TUGAS-THREADS |
 
 ## Tentang aplikasi
@@ -277,9 +277,9 @@ Screenshot dibuat langsung dari komponen GUI aplikasi yang berjalan melalui `pri
 6. Kirim **satu balasan** pada diskusi dengan format dosen:
 
    ```text
-   NIM: [NIM kamu]
-   Name: [Nama lengkap kamu]
-   GitHub Repository Link: https://github.com/[username]/[nama-repository]
+   NIM: F1D02410080
+   Name: Muhammad Rifqy Habibi
+   GitHub Repository Link: https://github.com/ripkiiuu/TUGAS-THREADS
    ```
 
 **Batas waktu pada instruksi tugas: 27 November 2026, pukul 10.00.** Repository remote dan balasan forum tidak dibuat/dikirim otomatis oleh project ini.
