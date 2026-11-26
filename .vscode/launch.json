@@ -1,0 +1,12 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Jalankan CRUD Mahasiswa",
+            "request": "launch",
+            "mainClass": "kampus.App",
+            "cwd": "${workspaceFolder}"
+        }
+    ]
+}

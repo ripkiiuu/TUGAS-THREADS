@@ -1,0 +1,10 @@
+# Default tanpa file db.properties: H2 lokal (tidak membutuhkan server).
+db.url=jdbc:h2:./data/kampus;MODE=MySQL;DATABASE_TO_LOWER=TRUE
+db.user=sa
+db.password=
+
+# Untuk MySQL: jalankan sql/mysql.sql, lalu ganti ketiga properti di atas.
+# db.url=jdbc:mysql://localhost:3306/thread_database?connectTimeout=5000&socketTimeout=10000&connectionTimeZone=Asia/Jakarta
+# db.user=thread_app
+# db.password=GANTI_DENGAN_PASSWORD_LOKAL
+# Jangan upload db.properties yang berisi password ke GitHub.
